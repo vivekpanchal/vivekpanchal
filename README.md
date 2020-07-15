@@ -1,5 +1,4 @@
-### Hi i am Vivek  👋
-
+### A passionate Android Developer 🚀 having an experience of building Mobile 📱 applications with Best Practices, and cool libraries.
 
 
 - 🔭 I’m currently working as Android Developer 
